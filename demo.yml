@@ -8,5 +8,5 @@ spring:
     - beans.xml
   resources:
     - errorResource
-#  managed:
-#    - foo
+  managed:
+    - foo
