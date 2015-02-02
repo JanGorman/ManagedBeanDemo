@@ -1,0 +1,12 @@
+apiMetadata:
+  title: Demo
+
+spring:
+  appContextType: web
+  configLocationsType: classpath
+  configLocations:
+    - beans.xml
+  resources:
+    - errorResource
+#  managed:
+#    - foo
