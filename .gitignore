@@ -31,3 +31,19 @@ atlassian-ide-plugin.xml
 com_crashlytics_export_strings.xml
 
 
+### https://raw.github.com/github/gitignore/95d8ff4e7aedb5a1742fe1f70ea8f33f267adf42/Java.gitignore
+
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
